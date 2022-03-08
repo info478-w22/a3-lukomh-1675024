@@ -1,6 +1,7 @@
 # load your libraries
 library(shiny)
 library(shinythemes)
+library(rsconnect)
 
 # Page One
 page_one <- tabPanel(
